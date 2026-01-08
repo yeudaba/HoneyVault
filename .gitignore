@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive Keys (Don't upload these!)
+*.key
+*.enc
+decoys/
+
+usb.share
+test_vault/
+*.share
