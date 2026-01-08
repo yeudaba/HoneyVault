@@ -25,7 +25,7 @@
 
 ## 📦 Installation
 ```bash
-git clone [https://github.com/YOUR_USERNAME/HoneyVault.git](https://github.com/YOUR_USERNAME/HoneyVault.git)
+git clone https://github.com/yeudaba/HoneyVault.git
 cd HoneyVault
 pip install -r requirements.txt
 python main_gui.py
