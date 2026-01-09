@@ -27,5 +27,12 @@
 ```bash
 git clone https://github.com/yeudaba/HoneyVault.git
 cd HoneyVault
+pip install cryptography
+pip install watchdog
+
+(venv){
+pip install customtkinter
+}
+
 pip install -r requirements.txt
 python main_gui.py
