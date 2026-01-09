@@ -27,6 +27,7 @@
 ```bash
 git clone https://github.com/yeudaba/HoneyVault.git
 cd HoneyVault
+source venv/bin/activate
 pip install cryptography
 pip install watchdog
 
